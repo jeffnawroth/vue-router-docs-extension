@@ -3,7 +3,7 @@
   "name": "vue-router-docs",
   "title": "Vue Router Docs",
   "description": "Search Vue Router documentation directly from Raycast",
-  "icon": "extension-icon.png",
+  "icon": "v-logo.png",
   "author": "jeffnawroth",
   "categories": [
     "Documentation",
@@ -16,6 +16,7 @@
       "title": "Open Vue Router Docs",
       "subtitle": "Vue Router Docs",
       "description": "Open the hompage of the Vue Router Docs",
+      "icon": "v-logo.png",
       "mode": "no-view"
     },
     {
@@ -23,6 +24,7 @@
       "title": "Search Documentation",
       "subtitle": "Vue Router Docs",
       "description": "Search Vue Router Docs and open it in the browser",
+      "icon": "v-logo.png",
       "mode": "view"
     }
   ],
